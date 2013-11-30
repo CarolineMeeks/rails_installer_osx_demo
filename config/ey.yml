@@ -1,1 +1,1 @@
-Add or update config/ey.yml
+precompile_assets: true  # precompile assets
